@@ -6,7 +6,7 @@
 	<dict>
 		<key>THIRD_PARTY.txt</key>
 		<data>
-		nV2AIzenbyCdQ1mUkMyWe+Q5/EY=
+		SYYQFOL9VpHCM7x/t+X1/CZrxF4=
 		</data>
 		<key>ios-arm64/ScanditIdAamvaBarcodeVerification.framework/Headers/ScanditIdAamvaBarcodeVerification.h</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>ios-arm64/ScanditIdAamvaBarcodeVerification.framework/ScanditIdAamvaBarcodeVerification</key>
 		<data>
-		N49gAdk/glG3t3m5SZa9Ahor55Y=
+		Ef7akCy9hylFu7fHvmphhWI4UI4=
 		</data>
 		<key>ios-arm64/ScanditIdAamvaBarcodeVerification.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>ios-arm64/dSYMs/ScanditIdAamvaBarcodeVerification.framework.dSYM/Contents/Resources/DWARF/ScanditIdAamvaBarcodeVerification</key>
 		<data>
-		YDKogtCs4JqPJig+orWVb0CpdkU=
+		sYx/baAc/Jqz+W//b5BtJg57eIA=
 		</data>
 		<key>ios-arm64/dSYMs/ScanditIdAamvaBarcodeVerification.framework.dSYM/Contents/Resources/Relocations/aarch64/ScanditIdAamvaBarcodeVerification.yml</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/ScanditIdAamvaBarcodeVerification.framework/ScanditIdAamvaBarcodeVerification</key>
 		<data>
-		JQpy1cw6u5ImF6zVBw+gfN5w+EY=
+		mk++CZXbzbF3pd+TSG6S1S3ijUk=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ScanditIdAamvaBarcodeVerification.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -83,11 +83,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nV2AIzenbyCdQ1mUkMyWe+Q5/EY=
+			SYYQFOL9VpHCM7x/t+X1/CZrxF4=
 			</data>
 			<key>hash2</key>
 			<data>
-			rlrgLIq/jZNwK9kdrT1RmQOfAzctMgSc7SzotIm/rBQ=
+			OwVGd6R6hQxsPZOQ8e9y2IXyS48bawIKZBIislapHd8=
 			</data>
 		</dict>
 		<key>ios-arm64/ScanditIdAamvaBarcodeVerification.framework/Headers/ScanditIdAamvaBarcodeVerification.h</key>
@@ -138,11 +138,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			N49gAdk/glG3t3m5SZa9Ahor55Y=
+			Ef7akCy9hylFu7fHvmphhWI4UI4=
 			</data>
 			<key>hash2</key>
 			<data>
-			bVmLYiaH04arvCPYG8C3gtlesm7Pg+zwXEOlUC/moKE=
+			pdw5PXwsGtrWGnnLE4Lqrlq1cSSmRpDs0ceIgT6uAU4=
 			</data>
 		</dict>
 		<key>ios-arm64/ScanditIdAamvaBarcodeVerification.framework/_CodeSignature/CodeResources</key>
@@ -182,11 +182,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			YDKogtCs4JqPJig+orWVb0CpdkU=
+			sYx/baAc/Jqz+W//b5BtJg57eIA=
 			</data>
 			<key>hash2</key>
 			<data>
-			HoTBAHSHbGX1D7VXN3L+UZ1CuF9LZ7XoFHz8vQYVAq0=
+			XowiiU7vvNXZdMD8cdye8pPUVx7keojBuPkbsbRbcHg=
 			</data>
 		</dict>
 		<key>ios-arm64/dSYMs/ScanditIdAamvaBarcodeVerification.framework.dSYM/Contents/Resources/Relocations/aarch64/ScanditIdAamvaBarcodeVerification.yml</key>
@@ -248,11 +248,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			JQpy1cw6u5ImF6zVBw+gfN5w+EY=
+			mk++CZXbzbF3pd+TSG6S1S3ijUk=
 			</data>
 			<key>hash2</key>
 			<data>
-			mLL3ZdCDqAx4hb7M/urEN+tt7IdghWrjGDawGTTKQJk=
+			mCkVQJWPqxkb0P4F5C+9aB8WK2BTppFQFzhhmaBLjD0=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ScanditIdAamvaBarcodeVerification.framework/_CodeSignature/CodeResources</key>

@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/SDCAAMVABarcodeVerifier.h</key>
 		<data>
-		i2jkpt103Tta9z6xUBmE4nqnfv8=
+		XjOJdVsQu4k7yS0BGw/UNEWFwoY=
 		</data>
 		<key>Headers/SDCBarcodeResult.h</key>
 		<data>
@@ -18,7 +18,11 @@
 		</data>
 		<key>Headers/SDCCapturedId.h</key>
 		<data>
-		lU3b2KHGfO9trE4rm15iwB1irqg=
+		NpNiEQ/xePVqE1SvJzwwPjNfe9U=
+		</data>
+		<key>Headers/SDCCapturedSides.h</key>
+		<data>
+		X5/8+L2X76w6zn2VKLvBFudJeno=
 		</data>
 		<key>Headers/SDCDateResult.h</key>
 		<data>
@@ -78,19 +82,15 @@
 		</data>
 		<key>Headers/SDCIdCaptureSettings.h</key>
 		<data>
-		axMHQbML7U3JDRHpq9L4mdvNeyc=
+		XKh8AHyMo7ibJvIpOkWF+RTIXDQ=
 		</data>
 		<key>Headers/SDCIdCard.h</key>
 		<data>
 		cAx6X0jJeoejViVpImhzCZUVCBo=
 		</data>
-		<key>Headers/SDCIdDocumentType.h</key>
-		<data>
-		eKrM5X/FDL5toEGr89p0IksQNnw=
-		</data>
 		<key>Headers/SDCIdImages.h</key>
 		<data>
-		N+7EHxiSQpr2AdxhrIODlGQ/XfM=
+		UmvOCsPQPQhh/skpvXgEIbMdKwY=
 		</data>
 		<key>Headers/SDCLocalizedOnlyId.h</key>
 		<data>
@@ -118,7 +118,7 @@
 		</data>
 		<key>Headers/SDCRejectionReason.h</key>
 		<data>
-		2q2rjECoUn4FTOhkuaTGwSCXL9w=
+		Wg7rHKnIMNR7/eg6LlrxZdI6jNQ=
 		</data>
 		<key>Headers/SDCResidencePermit.h</key>
 		<data>
@@ -127,10 +127,6 @@
 		<key>Headers/SDCSingleSideScanner.h</key>
 		<data>
 		aYtW00PgHRHmKuLTojPiEWwh8hM=
-		</data>
-		<key>Headers/SDCSupportedSides.h</key>
-		<data>
-		aYgRLrXQc1CzZ4Np5IUUrGQDO1k=
 		</data>
 		<key>Headers/SDCVehicleRestriction.h</key>
 		<data>
@@ -142,7 +138,7 @@
 		</data>
 		<key>Headers/SDCVizResult.h</key>
 		<data>
-		6GCKGG8aCK6tTZBN1m1o46312zU=
+		yNH5j1QOV82X6Y/51Y4OdTWOrr4=
 		</data>
 		<key>Headers/ScanditIdCapture-Swift.h</key>
 		<data>
@@ -150,7 +146,7 @@
 		</data>
 		<key>Headers/ScanditIdCapture.h</key>
 		<data>
-		imCvN7T6WOVNjASQtK9q2OmV+ak=
+		+VqRon/e8rH5wk8RciYI4f5SFSw=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -158,11 +154,11 @@
 		</data>
 		<key>Modules/ScanditIdCapture.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		ZUZOBrgbShW3lqquWvjg/z5kPk4=
+		NF3InZja6TFP4Schg8m8weUHuwQ=
 		</data>
 		<key>Modules/ScanditIdCapture.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		QF11hEun+JgaEiRPZgxOF/umBd0=
+		vyFR+OnCMtXU+PbAtDqpTocMgB4=
 		</data>
 		<key>Modules/ScanditIdCapture.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -170,15 +166,15 @@
 		</data>
 		<key>Modules/ScanditIdCapture.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		QF11hEun+JgaEiRPZgxOF/umBd0=
+		vyFR+OnCMtXU+PbAtDqpTocMgB4=
 		</data>
 		<key>Modules/ScanditIdCapture.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		ZUZOBrgbShW3lqquWvjg/z5kPk4=
+		NF3InZja6TFP4Schg8m8weUHuwQ=
 		</data>
 		<key>Modules/ScanditIdCapture.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		9p9mIgnxoC64/1Y8DvGg8uhtzDU=
+		Wj1wVs6m3bmb9e3rmT8+4Kh95wU=
 		</data>
 		<key>Modules/ScanditIdCapture.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -186,7 +182,7 @@
 		</data>
 		<key>Modules/ScanditIdCapture.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		9p9mIgnxoC64/1Y8DvGg8uhtzDU=
+		Wj1wVs6m3bmb9e3rmT8+4Kh95wU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -234,7 +230,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NIlzmVdRgJdjqXwn8TsU9UVAkkOnXGla7dram4QB/UU=
+			FCmetn6aGtwC5zwixsyzeaJjH7w6Md8yam7PRuIhAp4=
 			</data>
 		</dict>
 		<key>Headers/SDCBarcodeResult.h</key>
@@ -248,7 +244,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			j3sOH2gQmbEAIgmk5nfvORWBPtD2iIf78n5UCeFv6Gw=
+			ckQ3jl3jv2aQ9HdoMI2XwEDrN+nKz1KeFFD+V25nZEs=
+			</data>
+		</dict>
+		<key>Headers/SDCCapturedSides.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			SXnMFqs6A216pNarYt8TfXkofq+h6u1OPbzJLhsurYQ=
 			</data>
 		</dict>
 		<key>Headers/SDCDateResult.h</key>
@@ -353,7 +356,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+uRP4XwxgefqwqrQdFFjCbhrYTAnsTSwne1txvnzfrw=
+			n5HHKBdHd1qe2yJLZK4gSDkUsnaDWtYRxLsIUYzbObQ=
 			</data>
 		</dict>
 		<key>Headers/SDCIdCard.h</key>
@@ -363,18 +366,11 @@
 			pGa7EGnyRpT2j3cKqp3ttmtayggaUhsVnbH4FSeGeSA=
 			</data>
 		</dict>
-		<key>Headers/SDCIdDocumentType.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			sg2eFAYACcppyw1oa2hQdZwOIIwSt8xyBFXB0hzBBpk=
-			</data>
-		</dict>
 		<key>Headers/SDCIdImages.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WkqJ+pu4KEi/YrVv/2QgihcoI8pWBVvz+mtXhJJhh3w=
+			CWj96fz16UjjMrTZexayw5xMQDXDNvUo4lUSbtXtOcI=
 			</data>
 		</dict>
 		<key>Headers/SDCLocalizedOnlyId.h</key>
@@ -423,7 +419,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Y0CxBgCQaZqp6cGz654YMYgTnp6lmKsI2hzlVxGwp1Y=
+			s4e/gMP/+W5sKWTo0jE+XdVzuZJ4I8XkeNoTd3JAEIs=
 			</data>
 		</dict>
 		<key>Headers/SDCResidencePermit.h</key>
@@ -438,13 +434,6 @@
 			<key>hash2</key>
 			<data>
 			/JQWRKbjdBo7+2gmuWJ53aTTf8bEDyB1TtcUkwytW9w=
-			</data>
-		</dict>
-		<key>Headers/SDCSupportedSides.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			95sd4FEehVPiRc/JKvpTwgdbykdBqNnl3FWpQRoeP7A=
 			</data>
 		</dict>
 		<key>Headers/SDCVehicleRestriction.h</key>
@@ -465,7 +454,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/cyVGEWBTCELge/qY9Kiv4Kg/AD/DOOrI/LzLrlR0Cs=
+			+FrezuKEOVkpiwDFNLjETgoWGJUvulwkvgpvGgSfiM0=
 			</data>
 		</dict>
 		<key>Headers/ScanditIdCapture-Swift.h</key>
@@ -479,21 +468,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DiXaCX4hHrWRVh+ZaiBL4RetU1O7w35yWFhbbBqklZM=
+			6u1Cp3l4USFeT98Iay12dH03omSQMMRQiSLgmSehMz0=
 			</data>
 		</dict>
 		<key>Modules/ScanditIdCapture.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+7SOWlj/E6fqieBHypB0BnChaj73tSlpfrIfuIk2Bjg=
+			H9rXm6fWhLAu8lk6yz+dHJBoCbhMBi0icATaSRrIDuM=
 			</data>
 		</dict>
 		<key>Modules/ScanditIdCapture.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vZ2NbogL4fAD0VTVmuQE4QrHRaKlYcUJLrWjdooeXHQ=
+			fA2ku9eOiArtGLgNuI1RMhoNd4IHU2qs2HMG6Q/0ALk=
 			</data>
 		</dict>
 		<key>Modules/ScanditIdCapture.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -507,21 +496,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vZ2NbogL4fAD0VTVmuQE4QrHRaKlYcUJLrWjdooeXHQ=
+			fA2ku9eOiArtGLgNuI1RMhoNd4IHU2qs2HMG6Q/0ALk=
 			</data>
 		</dict>
 		<key>Modules/ScanditIdCapture.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+7SOWlj/E6fqieBHypB0BnChaj73tSlpfrIfuIk2Bjg=
+			H9rXm6fWhLAu8lk6yz+dHJBoCbhMBi0icATaSRrIDuM=
 			</data>
 		</dict>
 		<key>Modules/ScanditIdCapture.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4UYQW6sYWREl/wde93bF1p3XpgKlJTi5pYrPv9BJKI4=
+			M3Fh/rwVv1kLGp9QYZk+iJ1IrynXvwNQ6X4Ghd1FJVQ=
 			</data>
 		</dict>
 		<key>Modules/ScanditIdCapture.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -535,7 +524,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4UYQW6sYWREl/wde93bF1p3XpgKlJTi5pYrPv9BJKI4=
+			M3Fh/rwVv1kLGp9QYZk+iJ1IrynXvwNQ6X4Ghd1FJVQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

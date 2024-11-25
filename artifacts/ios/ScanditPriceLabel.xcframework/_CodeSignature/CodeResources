@@ -6,7 +6,7 @@
 	<dict>
 		<key>THIRD_PARTY.txt</key>
 		<data>
-		nV2AIzenbyCdQ1mUkMyWe+Q5/EY=
+		SYYQFOL9VpHCM7x/t+X1/CZrxF4=
 		</data>
 		<key>ios-arm64/ScanditPriceLabel.framework/Headers/ScanditPriceLabel.h</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>ios-arm64/ScanditPriceLabel.framework/ScanditPriceLabel</key>
 		<data>
-		bwW1GnqJuQtvZGjpKbgMjw7TzcA=
+		ljQ0LgEFlfhDPwOSbh07tkKdvJs=
 		</data>
 		<key>ios-arm64/ScanditPriceLabel.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/ScanditPriceLabel.framework/ScanditPriceLabel</key>
 		<data>
-		HDbZbr6OV8rb95qiM1L+mTigVwI=
+		E+5dpZHrJs5Zb2tuXjR4++5gJ6Q=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ScanditPriceLabel.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -99,11 +99,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nV2AIzenbyCdQ1mUkMyWe+Q5/EY=
+			SYYQFOL9VpHCM7x/t+X1/CZrxF4=
 			</data>
 			<key>hash2</key>
 			<data>
-			rlrgLIq/jZNwK9kdrT1RmQOfAzctMgSc7SzotIm/rBQ=
+			OwVGd6R6hQxsPZOQ8e9y2IXyS48bawIKZBIislapHd8=
 			</data>
 		</dict>
 		<key>ios-arm64/ScanditPriceLabel.framework/Headers/ScanditPriceLabel.h</key>
@@ -154,11 +154,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			bwW1GnqJuQtvZGjpKbgMjw7TzcA=
+			ljQ0LgEFlfhDPwOSbh07tkKdvJs=
 			</data>
 			<key>hash2</key>
 			<data>
-			snd/DqlB03vn8p/5C2DLvlfgqEJ+IaKnR2ihXHpRid4=
+			ltl48OXcnj1XIbODYPgDDfH5cDyGGjUjhATUIUnFY58=
 			</data>
 		</dict>
 		<key>ios-arm64/ScanditPriceLabel.framework/_CodeSignature/CodeResources</key>
@@ -286,11 +286,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			HDbZbr6OV8rb95qiM1L+mTigVwI=
+			E+5dpZHrJs5Zb2tuXjR4++5gJ6Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			oRJDZiZA+Ux9yshrneeoNH0MriTG35NYxwh14xVdzfw=
+			6AYdcXL05hlmlYxyogq+3dcy0gEIk1ZhTUZ9aP6surU=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ScanditPriceLabel.framework/_CodeSignature/CodeResources</key>

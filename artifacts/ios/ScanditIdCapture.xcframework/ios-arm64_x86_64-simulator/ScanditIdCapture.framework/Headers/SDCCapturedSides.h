@@ -9,18 +9,18 @@
  *
  * Sides of a personal identification document scanned by ID Capture.
  */
-typedef NS_CLOSED_ENUM(NSInteger, SDCSupportedSides) {
+typedef NS_CLOSED_ENUM(NSInteger, SDCCapturedSides) {
 /**
      * Added in version 6.6.0
      *
      * Only the front side of a document.
      */
-    SDCSupportedSidesFrontOnly,
+    SDCCapturedSidesFrontOnly,
 /**
      * Added in version 6.6.0
      *
      * Both the front and the back side of a document.
      */
-    SDCSupportedSidesFrontAndBack
-} NS_SWIFT_NAME(SupportedSides);
+    SDCCapturedSidesFrontAndBack
+} NS_SWIFT_NAME(CapturedSides);
 

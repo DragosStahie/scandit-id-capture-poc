@@ -15,6 +15,7 @@ FOUNDATION_EXPORT const unsigned char ScanditIdCaptureVersionString[];
 #import <ScanditIdCapture/SDCAAMVABarcodeVerifier.h>
 #import <ScanditIdCapture/SDCBarcodeResult.h>
 #import <ScanditIdCapture/SDCCapturedId.h>
+#import <ScanditIdCapture/SDCCapturedSides.h>
 #import <ScanditIdCapture/SDCDateResult.h>
 #import <ScanditIdCapture/SDCDriverLicense.h>
 #import <ScanditIdCapture/SDCDrivingLicenseCategory.h>
@@ -31,7 +32,6 @@ FOUNDATION_EXPORT const unsigned char ScanditIdCaptureVersionString[];
 #import <ScanditIdCapture/SDCIdCaptureScanner.h>
 #import <ScanditIdCapture/SDCIdCaptureSettings.h>
 #import <ScanditIdCapture/SDCIdCard.h>
-#import <ScanditIdCapture/SDCIdDocumentType.h>
 #import <ScanditIdCapture/SDCIdImages.h>
 #import <ScanditIdCapture/SDCLocalizedOnlyId.h>
 #import <ScanditIdCapture/SDCMrzResult.h>
@@ -42,7 +42,6 @@ FOUNDATION_EXPORT const unsigned char ScanditIdCaptureVersionString[];
 #import <ScanditIdCapture/SDCRejectionReason.h>
 #import <ScanditIdCapture/SDCResidencePermit.h>
 #import <ScanditIdCapture/SDCSingleSideScanner.h>
-#import <ScanditIdCapture/SDCSupportedSides.h>
 #import <ScanditIdCapture/SDCVehicleRestriction.h>
 #import <ScanditIdCapture/SDCVisaIcao.h>
 #import <ScanditIdCapture/SDCVizResult.h>

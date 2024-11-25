@@ -28,14 +28,6 @@
 		<data>
 		m5Fq516t+kkd3XwO681ZMR/kHnc=
 		</data>
-		<key>ocr_text_semantics_default_model</key>
-		<data>
-		m5Fq516t+kkd3XwO681ZMR/kHnc=
-		</data>
-		<key>text_semantics_ocr_detector_default_model</key>
-		<data>
-		V5vg+MrmyTG5PhmdGv7DthVCR0w=
-		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -72,20 +64,6 @@
 			<key>hash2</key>
 			<data>
 			kvF5wyyVxK2CPxtIyDzfDFDtc9YHL0tki0sfyz6Uy7U=
-			</data>
-		</dict>
-		<key>ocr_text_semantics_default_model</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			kvF5wyyVxK2CPxtIyDzfDFDtc9YHL0tki0sfyz6Uy7U=
-			</data>
-		</dict>
-		<key>text_semantics_ocr_detector_default_model</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			U4djlA2uEGHI68nBxa0NbfwysyeXGRVqnIpVuw4T7eA=
 			</data>
 		</dict>
 	</dict>

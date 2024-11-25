@@ -8,8 +8,7 @@
 #import <ScanditIdCapture/SDCIdAnonymizationMode.h>
 #import <ScanditIdCapture/SDCIdCaptureDocument.h>
 #import <ScanditIdCapture/SDCIdCaptureScanner.h>
-#import <ScanditIdCapture/SDCIdDocumentType.h>
-#import <ScanditIdCapture/SDCSupportedSides.h>
+#import <ScanditIdCapture/SDCCapturedSides.h>
 
 NS_ASSUME_NONNULL_BEGIN
 
@@ -30,18 +29,6 @@ SDC_EXPORTED_SYMBOL
  * This setting allows to remove protected data from images and result fields of certain document types. Enabling anonymization helps to remain compliant with local legal requirements which restrict the collection of some data. Examples of affected fields are the document number on German IDs or the personal ID number on Dutch driver’s licenses. By default set to SDCIdAnonymizationModeFieldsOnly.
  */
 @property (nonatomic, assign) SDCIdAnonymizationMode anonymizationMode;
-/**
- * Added in version 6.5.0
- *
- * The types of personal identification documents that SDCIdCapture configured with these settings is able to scan.
- */
-@property (nonatomic, assign) SDCIdDocumentType supportedDocuments;
-/**
- * Added in version 6.6.0
- *
- * The sides of personal identification documents that SDCIdCapture configured with these settings is able to scan. This setting is relevant only for IdCaptureSettings.SupportedDocuments of type SDCIdDocumentTypeDLVIZ and SDCIdDocumentTypeIdCardVIZ, otherwise it is ignored. The default is SDCSupportedSidesFrontOnly.
- */
-@property (nonatomic, assign) SDCSupportedSides supportedSides;
 /**
  * Added in version 7.0.0
  *

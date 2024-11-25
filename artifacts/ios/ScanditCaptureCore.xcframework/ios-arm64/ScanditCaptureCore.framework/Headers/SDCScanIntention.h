@@ -22,7 +22,7 @@ typedef NS_CLOSED_ENUM(NSUInteger, SDCScanIntention) {
 /**
      * Added in version 6.24.0
      *
-     * Enables the automatic algorithm that intelligently identifies and then scans the barcode that the user intends to capture, reducing errors.
+     * On supported devices, it enables the automatic algorithm that intelligently identifies and then scans the barcode that the user intends to capture, reducing errors.
      */
     SDCScanIntentionSmart
 } NS_SWIFT_NAME(ScanIntention);

@@ -6,7 +6,6 @@
 
 #import <Foundation/Foundation.h>
 #import <ScanditCaptureCore/ScanditCaptureCore.h>
-#import <ScanditIdCapture/SDCIdDocumentType.h>
 #import <ScanditIdCapture/SDCIdCaptureRegion.h>
 #import <ScanditIdCapture/SDCIdCaptureDocument.h>
 #import <ScanditIdCapture/SDCRegionSpecificSubtype.h>
@@ -47,32 +46,6 @@ typedef NS_CLOSED_ENUM(NSUInteger, SDCIdImageType) {
 } NS_SWIFT_NAME(IdImageType);
 
 /**
- * Added in version 6.5.0
- *
- * Enum value kept in SDCCapturedId.capturedResultType. It indicates which nonnull results SDCCapturedId holds.
- */
-typedef NS_OPTIONS(NSUInteger, SDCCapturedResultType) {
-/**
-     * Added in version 6.5.0
-     *
-     * The SDCCapturedId contains a nonnull SDCCapturedId.mrzResult.
-     */
-    SDCCapturedResultTypeMrzResult = 1 << 0,
-/**
-     * Added in version 6.5.0
-     *
-     * The SDCCapturedId contains a nonnull SDCCapturedId.vizResult.
-     */
-    SDCCapturedResultTypeVizResult = 1 << 1,
-/**
-     * Added in version 7.0.0
-     *
-     * The SDCCapturedId contains a nonnull SDCCapturedId.barcode.
-     */
-    SDCCapturedResultTypeBarcodeResult = 1 << 2,
-} NS_SWIFT_NAME(CapturedResultType);
-
-/**
  * Added in version 6.28.0
  *
  * Indicates whether the document is REAL ID compliant.
@@ -104,8 +77,6 @@ typedef NS_CLOSED_ENUM(NSUInteger, SDCUsRealIdStatus) {
  * Added in version 6.6.0
  *
  * A class that represents a result of a document scan. This class contains the captured information that is commonly present in all the documents, like the name or the date of birth of the holder.
- *
- * The class can be cast to a concrete implementation using capturedResultType.
  */
 NS_SWIFT_NAME(CapturedId)
 SDC_EXPORTED_SYMBOL
@@ -158,20 +129,6 @@ SDC_EXPORTED_SYMBOL
  * The address of the document holder.
  */
 @property (nonatomic, nullable, readonly) NSString *address;
-/**
- * Added in version 6.6.0
- *
- * The captured result type. Consult the documentation for more information about it.
- *
- * Deprecated since version 6.11: Replaced by capturedResultTypes.
- */
-@property (nonatomic, readonly) SDCCapturedResultType capturedResultType DEPRECATED_MSG_ATTRIBUTE("Use capturedResultTypes instead.");
-/**
- * Added in version 6.11.0
- *
- * The captured result types. Guaranteed to contain at least one element. Consult the documentation for more information about it.
- */
-@property (nonatomic, readonly) SDCCapturedResultType capturedResultTypes;
 /**
  * Added in version 7.0.0
  *
@@ -246,13 +203,13 @@ SDC_EXPORTED_SYMBOL
 /**
  * Added in version 6.6.0
  *
- * The additional information extracted from a documents or its part intended to be read by humans (for example Visual Inspection Zone (VIZ) of a Machine-Readable Travel Document (MRTD)). This property is guaranteed to be non-nil when capturedResultType is SDCCapturedResultTypeVizResult, and is nil otherwise.
+ * The additional information extracted from a documents or its part intended to be read by humans (for example Visual Inspection Zone (VIZ) of a Machine-Readable Travel Document (MRTD)).
  */
 @property (nonatomic, nullable, readonly) SDCVizResult *vizResult;
 /**
  * Added in version 6.6.0
  *
- * The additional information extracted from the Machine Readable Zone (MRZ) of a Machine Readable Travel Document (MRTD). This property is guaranteed to be non-nil when capturedResultType is SDCCapturedResultTypeMrzResult, and is nil otherwise.
+ * The additional information extracted from the Machine Readable Zone (MRZ) of a Machine Readable Travel Document (MRTD).
  */
 @property (nonatomic, nullable, readonly) SDCMrzResult *mrzResult;
 /**

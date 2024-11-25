@@ -33,7 +33,7 @@ SDC_EXTERN NSErrorUserInfoKey const SDCAAMVABarcodeVerifierServerResponseJSONErr
  * @code
  * let = IdCaptureSettings()
  * idCaptureSettings.supportedDocuments = [ .dlVIZ ]
- * idCaptureSettings.supportedSides = .frontAndBack
+ * idCaptureSettings.capturedSides = .frontAndBack
  *
  * let idCapture = IdCapture(context: dataCaptureContext, settings: settings)
  * @endcode

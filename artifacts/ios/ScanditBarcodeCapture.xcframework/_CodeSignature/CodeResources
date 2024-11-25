@@ -6,11 +6,11 @@
 	<dict>
 		<key>THIRD_PARTY.txt</key>
 		<data>
-		nV2AIzenbyCdQ1mUkMyWe+Q5/EY=
+		SYYQFOL9VpHCM7x/t+X1/CZrxF4=
 		</data>
 		<key>ios-arm64/ScanditBarcodeCapture.framework/Assets.car</key>
 		<data>
-		w4PzWzKJZDM4Rh7k2g9mNu1jTrU=
+		lq8KWu36nfJhqEn3C4l42CWyHtI=
 		</data>
 		<key>ios-arm64/ScanditBarcodeCapture.framework/Headers/SDCArucoDictionary.h</key>
 		<data>
@@ -216,10 +216,6 @@
 		<data>
 		FRAHd5vC5BESst3cONfIvtZQKI8=
 		</data>
-		<key>ios-arm64/ScanditBarcodeCapture.framework/Headers/SDCBarcodeFindSession.h</key>
-		<data>
-		z7+AJp1GK9O1oKnoYFn94DQCofo=
-		</data>
 		<key>ios-arm64/ScanditBarcodeCapture.framework/Headers/SDCBarcodeFindSettings.h</key>
 		<data>
 		dQf5b/1+KijsKLjuXuJ2u62d2PE=
@@ -266,7 +262,7 @@
 		</data>
 		<key>ios-arm64/ScanditBarcodeCapture.framework/Headers/SDCBarcodePickAsyncMapperProductProvider.h</key>
 		<data>
-		o2hJFR75yuuKmORW6/Z0GbZeiL8=
+		L+/cGFLOcAXtNp1oZdswZMnc2Gw=
 		</data>
 		<key>ios-arm64/ScanditBarcodeCapture.framework/Headers/SDCBarcodePickDeserializer.h</key>
 		<data>
@@ -554,7 +550,7 @@
 		</data>
 		<key>ios-arm64/ScanditBarcodeCapture.framework/Headers/ScanditBarcodeCapture.h</key>
 		<data>
-		KAaQ5wDlSikXBl07Hy7GE2IBrH0=
+		j3WzP4WhSUlnDujIjQTCx518tJY=
 		</data>
 		<key>ios-arm64/ScanditBarcodeCapture.framework/Info.plist</key>
 		<data>
@@ -586,11 +582,11 @@
 		</data>
 		<key>ios-arm64/ScanditBarcodeCapture.framework/ScanditBarcodeCapture</key>
 		<data>
-		irj9p7uTG4Y/nzgKeydqnbYsG9Q=
+		kLpv0ALrtQff3A/yPU3e+YOGhhI=
 		</data>
 		<key>ios-arm64/ScanditBarcodeCapture.framework/_CodeSignature/CodeResources</key>
 		<data>
-		Md8PiPRc/NLrKss5Fa7WzoFNfYg=
+		8g6a0++sdMqr928xaj4IinWSFWo=
 		</data>
 		<key>ios-arm64/ScanditBarcodeCapture.framework/barcode_count_spark_scan_view_failure.mp3</key>
 		<data>
@@ -622,15 +618,15 @@
 		</data>
 		<key>ios-arm64/dSYMs/ScanditBarcodeCapture.framework.dSYM/Contents/Resources/DWARF/ScanditBarcodeCapture</key>
 		<data>
-		4niQwDId2zdjDb2s3Yn/nyhcd+g=
+		cYT4TWwGU6AQiVOgU05MTPK68ro=
 		</data>
 		<key>ios-arm64/dSYMs/ScanditBarcodeCapture.framework.dSYM/Contents/Resources/Relocations/aarch64/ScanditBarcodeCapture.yml</key>
 		<data>
-		7NP5CKbj070l+ZRoMcITCSiRV+g=
+		FCCxLBMh1qO6n6jpmqJ0Pk+Dmas=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ScanditBarcodeCapture.framework/Assets.car</key>
 		<data>
-		w4PzWzKJZDM4Rh7k2g9mNu1jTrU=
+		lq8KWu36nfJhqEn3C4l42CWyHtI=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ScanditBarcodeCapture.framework/Headers/SDCArucoDictionary.h</key>
 		<data>
@@ -836,10 +832,6 @@
 		<data>
 		FRAHd5vC5BESst3cONfIvtZQKI8=
 		</data>
-		<key>ios-arm64_x86_64-simulator/ScanditBarcodeCapture.framework/Headers/SDCBarcodeFindSession.h</key>
-		<data>
-		z7+AJp1GK9O1oKnoYFn94DQCofo=
-		</data>
 		<key>ios-arm64_x86_64-simulator/ScanditBarcodeCapture.framework/Headers/SDCBarcodeFindSettings.h</key>
 		<data>
 		dQf5b/1+KijsKLjuXuJ2u62d2PE=
@@ -886,7 +878,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/ScanditBarcodeCapture.framework/Headers/SDCBarcodePickAsyncMapperProductProvider.h</key>
 		<data>
-		o2hJFR75yuuKmORW6/Z0GbZeiL8=
+		L+/cGFLOcAXtNp1oZdswZMnc2Gw=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ScanditBarcodeCapture.framework/Headers/SDCBarcodePickDeserializer.h</key>
 		<data>
@@ -1174,7 +1166,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/ScanditBarcodeCapture.framework/Headers/ScanditBarcodeCapture.h</key>
 		<data>
-		KAaQ5wDlSikXBl07Hy7GE2IBrH0=
+		j3WzP4WhSUlnDujIjQTCx518tJY=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ScanditBarcodeCapture.framework/Info.plist</key>
 		<data>
@@ -1222,11 +1214,11 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/ScanditBarcodeCapture.framework/ScanditBarcodeCapture</key>
 		<data>
-		e1aTCCGXOvEPtg9f9T+9VvTsoMw=
+		+UQ56+H8ZoLLzrY8o8+3b6MrV3g=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ScanditBarcodeCapture.framework/_CodeSignature/CodeResources</key>
 		<data>
-		bVRwk6zRHewf4qSv94h0WdDw9VI=
+		2zK6f0TIP1HW5EWqS6AmdXGdc6E=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ScanditBarcodeCapture.framework/barcode_count_spark_scan_view_failure.mp3</key>
 		<data>
@@ -1259,22 +1251,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nV2AIzenbyCdQ1mUkMyWe+Q5/EY=
+			SYYQFOL9VpHCM7x/t+X1/CZrxF4=
 			</data>
 			<key>hash2</key>
 			<data>
-			rlrgLIq/jZNwK9kdrT1RmQOfAzctMgSc7SzotIm/rBQ=
+			OwVGd6R6hQxsPZOQ8e9y2IXyS48bawIKZBIislapHd8=
 			</data>
 		</dict>
 		<key>ios-arm64/ScanditBarcodeCapture.framework/Assets.car</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			w4PzWzKJZDM4Rh7k2g9mNu1jTrU=
+			lq8KWu36nfJhqEn3C4l42CWyHtI=
 			</data>
 			<key>hash2</key>
 			<data>
-			n+cyZ4BKwRF/AjBWBupKz8/9+xnf2LfVaEHYIWtlqHE=
+			WfN1/aYFEYbAD8XOq3qBDegKHZUoG2BfmtOZSNxZcxw=
 			</data>
 		</dict>
 		<key>ios-arm64/ScanditBarcodeCapture.framework/Headers/SDCArucoDictionary.h</key>
@@ -1838,17 +1830,6 @@
 			HbwpdIQ031+dgqmoAlL21R4pk6LDp8cjjAOuLjn5frk=
 			</data>
 		</dict>
-		<key>ios-arm64/ScanditBarcodeCapture.framework/Headers/SDCBarcodeFindSession.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			z7+AJp1GK9O1oKnoYFn94DQCofo=
-			</data>
-			<key>hash2</key>
-			<data>
-			Xz5gKp+dn/uvc1/uaX+3f4USCsvDgMVGwvNKe9djSs8=
-			</data>
-		</dict>
 		<key>ios-arm64/ScanditBarcodeCapture.framework/Headers/SDCBarcodeFindSettings.h</key>
 		<dict>
 			<key>hash</key>
@@ -1974,11 +1955,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			o2hJFR75yuuKmORW6/Z0GbZeiL8=
+			L+/cGFLOcAXtNp1oZdswZMnc2Gw=
 			</data>
 			<key>hash2</key>
 			<data>
-			mM2oewabq+Ue1k+8UChiU4aQde7A2hfqv9XahKdGnfI=
+			uR60PNsLKR5e/iWIJ6oFe7drThU7SorunlenRlnICmE=
 			</data>
 		</dict>
 		<key>ios-arm64/ScanditBarcodeCapture.framework/Headers/SDCBarcodePickDeserializer.h</key>
@@ -2766,11 +2747,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KAaQ5wDlSikXBl07Hy7GE2IBrH0=
+			j3WzP4WhSUlnDujIjQTCx518tJY=
 			</data>
 			<key>hash2</key>
 			<data>
-			801p92zNHCA9ExLYHzScexPpE8i/c0RIuy+7eDwPrD0=
+			bNKQ3Hq35iEvYYoI6OV1Sfh4wzhb2uOpvvtrUioMd5s=
 			</data>
 		</dict>
 		<key>ios-arm64/ScanditBarcodeCapture.framework/Info.plist</key>
@@ -2854,22 +2835,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			irj9p7uTG4Y/nzgKeydqnbYsG9Q=
+			kLpv0ALrtQff3A/yPU3e+YOGhhI=
 			</data>
 			<key>hash2</key>
 			<data>
-			NfJXSbL2IEAFlQWnzq1Vngpg/FVdIO7kpctoxMezDY0=
+			9ksxivWHv4mKdpM70SqP4nwdJCfnVfUl12bqVCLwtVI=
 			</data>
 		</dict>
 		<key>ios-arm64/ScanditBarcodeCapture.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Md8PiPRc/NLrKss5Fa7WzoFNfYg=
+			8g6a0++sdMqr928xaj4IinWSFWo=
 			</data>
 			<key>hash2</key>
 			<data>
-			b5Oo0Yz/8vZQYl6xnQE9Q9y8buSIVinjpmUP6T6xyig=
+			oDPUC81FxbaJiiruzgxPgZmoVOcTDo8veh5CE0W2yzU=
 			</data>
 		</dict>
 		<key>ios-arm64/ScanditBarcodeCapture.framework/barcode_count_spark_scan_view_failure.mp3</key>
@@ -2953,33 +2934,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4niQwDId2zdjDb2s3Yn/nyhcd+g=
+			cYT4TWwGU6AQiVOgU05MTPK68ro=
 			</data>
 			<key>hash2</key>
 			<data>
-			unZbamVusdD83SBt5z1d9Wj+yIaptrHQM/FMvm2XhVw=
+			GEiuyhYUuO8U/RQr7siIWdql/rg75aSBpyAnLsZ5o1c=
 			</data>
 		</dict>
 		<key>ios-arm64/dSYMs/ScanditBarcodeCapture.framework.dSYM/Contents/Resources/Relocations/aarch64/ScanditBarcodeCapture.yml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7NP5CKbj070l+ZRoMcITCSiRV+g=
+			FCCxLBMh1qO6n6jpmqJ0Pk+Dmas=
 			</data>
 			<key>hash2</key>
 			<data>
-			rMAB9/XNJ3bteNs2liB5MqOxxwjAeejokUObaWG/cpo=
+			fnN9LDeG6C0wyXm0Y4beHEwLlBZ5gQ4ZZ/HcFeVtvcU=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ScanditBarcodeCapture.framework/Assets.car</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			w4PzWzKJZDM4Rh7k2g9mNu1jTrU=
+			lq8KWu36nfJhqEn3C4l42CWyHtI=
 			</data>
 			<key>hash2</key>
 			<data>
-			n+cyZ4BKwRF/AjBWBupKz8/9+xnf2LfVaEHYIWtlqHE=
+			WfN1/aYFEYbAD8XOq3qBDegKHZUoG2BfmtOZSNxZcxw=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ScanditBarcodeCapture.framework/Headers/SDCArucoDictionary.h</key>
@@ -3543,17 +3524,6 @@
 			HbwpdIQ031+dgqmoAlL21R4pk6LDp8cjjAOuLjn5frk=
 			</data>
 		</dict>
-		<key>ios-arm64_x86_64-simulator/ScanditBarcodeCapture.framework/Headers/SDCBarcodeFindSession.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			z7+AJp1GK9O1oKnoYFn94DQCofo=
-			</data>
-			<key>hash2</key>
-			<data>
-			Xz5gKp+dn/uvc1/uaX+3f4USCsvDgMVGwvNKe9djSs8=
-			</data>
-		</dict>
 		<key>ios-arm64_x86_64-simulator/ScanditBarcodeCapture.framework/Headers/SDCBarcodeFindSettings.h</key>
 		<dict>
 			<key>hash</key>
@@ -3679,11 +3649,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			o2hJFR75yuuKmORW6/Z0GbZeiL8=
+			L+/cGFLOcAXtNp1oZdswZMnc2Gw=
 			</data>
 			<key>hash2</key>
 			<data>
-			mM2oewabq+Ue1k+8UChiU4aQde7A2hfqv9XahKdGnfI=
+			uR60PNsLKR5e/iWIJ6oFe7drThU7SorunlenRlnICmE=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ScanditBarcodeCapture.framework/Headers/SDCBarcodePickDeserializer.h</key>
@@ -4471,11 +4441,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KAaQ5wDlSikXBl07Hy7GE2IBrH0=
+			j3WzP4WhSUlnDujIjQTCx518tJY=
 			</data>
 			<key>hash2</key>
 			<data>
-			801p92zNHCA9ExLYHzScexPpE8i/c0RIuy+7eDwPrD0=
+			bNKQ3Hq35iEvYYoI6OV1Sfh4wzhb2uOpvvtrUioMd5s=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ScanditBarcodeCapture.framework/Info.plist</key>
@@ -4603,22 +4573,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			e1aTCCGXOvEPtg9f9T+9VvTsoMw=
+			+UQ56+H8ZoLLzrY8o8+3b6MrV3g=
 			</data>
 			<key>hash2</key>
 			<data>
-			VzYipldoHodOxlgDHfvHuKqx8TcgduYiTx11P6WbB9o=
+			PY2d5+D+ebBskAJghPhgmhZV7TKLf1ji70I3BpmIS6o=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ScanditBarcodeCapture.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bVRwk6zRHewf4qSv94h0WdDw9VI=
+			2zK6f0TIP1HW5EWqS6AmdXGdc6E=
 			</data>
 			<key>hash2</key>
 			<data>
-			YCZltQLD6pTtAfAadnAt0yZcN2htcCkfeW9Z1cyMj3g=
+			vBfICiB31KUpvA5c+RufhLWChaXf0/KwpJykTSLDjyE=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ScanditBarcodeCapture.framework/barcode_count_spark_scan_view_failure.mp3</key>

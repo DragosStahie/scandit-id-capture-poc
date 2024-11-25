@@ -33,5 +33,11 @@ typedef NS_CLOSED_ENUM(NSUInteger, SDCRejectionReason) {
      *
      * The capture process resulted in a timeout.
      */
-    SDCRejectionReasonTimeout
+    SDCRejectionReasonTimeout,
+/**
+     * Added in version 7.0.0
+     *
+     * The capture process resulted in no result. This reason is only used in conjunction with a single image frame source. Currently on used by the Web platform
+     */
+    SDCRejectionReasonSingleImageNotRecognized
 } NS_SWIFT_NAME(RejectionReason);

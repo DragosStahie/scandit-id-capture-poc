@@ -6,7 +6,7 @@
 	<dict>
 		<key>THIRD_PARTY.txt</key>
 		<data>
-		nV2AIzenbyCdQ1mUkMyWe+Q5/EY=
+		SYYQFOL9VpHCM7x/t+X1/CZrxF4=
 		</data>
 		<key>ios-arm64/ScanditLabelCapture.framework/Headers/SDCBarcodeField.h</key>
 		<data>
@@ -130,7 +130,7 @@
 		</data>
 		<key>ios-arm64/ScanditLabelCapture.framework/ScanditLabelCapture</key>
 		<data>
-		4sMMWl0bZltDi3DNun+E595WIGM=
+		7pbS8xgNor4983hX2TUzJYogsFc=
 		</data>
 		<key>ios-arm64/ScanditLabelCapture.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -142,11 +142,11 @@
 		</data>
 		<key>ios-arm64/dSYMs/ScanditLabelCapture.framework.dSYM/Contents/Resources/DWARF/ScanditLabelCapture</key>
 		<data>
-		V6AY9mYrCVjCqJMk9jD/+So1XP4=
+		rjZ0fB5N/bJYaf2PkHADStxulnc=
 		</data>
 		<key>ios-arm64/dSYMs/ScanditLabelCapture.framework.dSYM/Contents/Resources/Relocations/aarch64/ScanditLabelCapture.yml</key>
 		<data>
-		W12gK8qOgf0pzLNZZDfLRH6J8ig=
+		KquK/ipr37KZdxyhqcc7vqCWPF8=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ScanditLabelCapture.framework/Headers/SDCBarcodeField.h</key>
 		<data>
@@ -270,7 +270,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/ScanditLabelCapture.framework/ScanditLabelCapture</key>
 		<data>
-		+upGzFDJI6pl6c/kEJIuNJAUjhI=
+		Faw2vvGy44/ZGiGapo4v8kglR6g=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ScanditLabelCapture.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -283,11 +283,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nV2AIzenbyCdQ1mUkMyWe+Q5/EY=
+			SYYQFOL9VpHCM7x/t+X1/CZrxF4=
 			</data>
 			<key>hash2</key>
 			<data>
-			rlrgLIq/jZNwK9kdrT1RmQOfAzctMgSc7SzotIm/rBQ=
+			OwVGd6R6hQxsPZOQ8e9y2IXyS48bawIKZBIislapHd8=
 			</data>
 		</dict>
 		<key>ios-arm64/ScanditLabelCapture.framework/Headers/SDCBarcodeField.h</key>
@@ -624,11 +624,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4sMMWl0bZltDi3DNun+E595WIGM=
+			7pbS8xgNor4983hX2TUzJYogsFc=
 			</data>
 			<key>hash2</key>
 			<data>
-			JR+/zoPgdn3l9SkZbSi5nXR+tC2lg4O03kCaGKUZv24=
+			uWVqLHWGvZsNIOWDIOL18Lf0bICc92FWNmoUeHetocQ=
 			</data>
 		</dict>
 		<key>ios-arm64/ScanditLabelCapture.framework/_CodeSignature/CodeResources</key>
@@ -657,22 +657,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			V6AY9mYrCVjCqJMk9jD/+So1XP4=
+			rjZ0fB5N/bJYaf2PkHADStxulnc=
 			</data>
 			<key>hash2</key>
 			<data>
-			gbWnESADVi1wTfip44eJXmNDqleM84NEe3QvPdvJcrk=
+			7OQBYGfCQlnYd4i3Xr1C8hgb4GmuvXnoLoHSNytKxY8=
 			</data>
 		</dict>
 		<key>ios-arm64/dSYMs/ScanditLabelCapture.framework.dSYM/Contents/Resources/Relocations/aarch64/ScanditLabelCapture.yml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			W12gK8qOgf0pzLNZZDfLRH6J8ig=
+			KquK/ipr37KZdxyhqcc7vqCWPF8=
 			</data>
 			<key>hash2</key>
 			<data>
-			qKQ7CZVx5tqwBrtZMZc9ZKjWnKOfxJgIWjeZElMnKl4=
+			79XyOyHVGWyem5rq0vx96Atj+Zauhjy1SkjcVuBUQEI=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ScanditLabelCapture.framework/Headers/SDCBarcodeField.h</key>
@@ -1009,11 +1009,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+upGzFDJI6pl6c/kEJIuNJAUjhI=
+			Faw2vvGy44/ZGiGapo4v8kglR6g=
 			</data>
 			<key>hash2</key>
 			<data>
-			m7SGcARz9YFXm2zIHCdSqakUi3rpGO3JSFZB9QTJToM=
+			ABFDI+WM6cSiTiCWNHaQakZPLwf0OkpQj6cmzuNHhiI=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ScanditLabelCapture.framework/_CodeSignature/CodeResources</key>

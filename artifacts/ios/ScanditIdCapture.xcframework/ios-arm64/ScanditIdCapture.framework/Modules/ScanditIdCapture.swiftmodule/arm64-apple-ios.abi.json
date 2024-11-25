@@ -442,8 +442,8 @@
       },
       {
         "kind": "TypeDecl",
-        "name": "IdDocumentType",
-        "printedName": "IdDocumentType",
+        "name": "RegionSpecificSubtype",
+        "printedName": "RegionSpecificSubtype",
         "children": [
           {
             "kind": "Var",
@@ -453,21 +453,21 @@
               {
                 "kind": "TypeNominal",
                 "name": "Array",
-                "printedName": "[ScanditIdCapture.IdDocumentType]",
+                "printedName": "[ScanditIdCapture.RegionSpecificSubtype]",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "IdDocumentType",
-                    "printedName": "ScanditIdCapture.IdDocumentType",
-                    "usr": "c:@E@SDCIdDocumentType"
+                    "name": "RegionSpecificSubtype",
+                    "printedName": "ScanditIdCapture.RegionSpecificSubtype",
+                    "usr": "c:@E@SDCRegionSpecificSubtype"
                   }
                 ],
                 "usr": "s:Sa"
               }
             ],
             "declKind": "Var",
-            "usr": "s:So17SDCIdDocumentTypeV16ScanditIdCaptureE8allCasesSayABGvpZ",
-            "mangledName": "$sSo17SDCIdDocumentTypeV16ScanditIdCaptureE8allCasesSayABGvpZ",
+            "usr": "s:So24SDCRegionSpecificSubtypeV16ScanditIdCaptureE8allCasesSayABGvpZ",
+            "mangledName": "$sSo24SDCRegionSpecificSubtypeV16ScanditIdCaptureE8allCasesSayABGvpZ",
             "moduleName": "ScanditIdCapture",
             "static": true,
             "declAttributes": [
@@ -483,21 +483,21 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Array",
-                    "printedName": "[ScanditIdCapture.IdDocumentType]",
+                    "printedName": "[ScanditIdCapture.RegionSpecificSubtype]",
                     "children": [
                       {
                         "kind": "TypeNominal",
-                        "name": "IdDocumentType",
-                        "printedName": "ScanditIdCapture.IdDocumentType",
-                        "usr": "c:@E@SDCIdDocumentType"
+                        "name": "RegionSpecificSubtype",
+                        "printedName": "ScanditIdCapture.RegionSpecificSubtype",
+                        "usr": "c:@E@SDCRegionSpecificSubtype"
                       }
                     ],
                     "usr": "s:Sa"
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:So17SDCIdDocumentTypeV16ScanditIdCaptureE8allCasesSayABGvgZ",
-                "mangledName": "$sSo17SDCIdDocumentTypeV16ScanditIdCaptureE8allCasesSayABGvgZ",
+                "usr": "s:So24SDCRegionSpecificSubtypeV16ScanditIdCaptureE8allCasesSayABGvgZ",
+                "mangledName": "$sSo24SDCRegionSpecificSubtypeV16ScanditIdCaptureE8allCasesSayABGvgZ",
                 "moduleName": "ScanditIdCapture",
                 "static": true,
                 "isFromExtension": true,
@@ -518,8 +518,8 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:So17SDCIdDocumentTypeV16ScanditIdCaptureE11descriptionSSvp",
-            "mangledName": "$sSo17SDCIdDocumentTypeV16ScanditIdCaptureE11descriptionSSvp",
+            "usr": "s:So24SDCRegionSpecificSubtypeV16ScanditIdCaptureE11descriptionSSvp",
+            "mangledName": "$sSo24SDCRegionSpecificSubtypeV16ScanditIdCaptureE11descriptionSSvp",
             "moduleName": "ScanditIdCapture",
             "declAttributes": [
               "AccessControl"
@@ -539,8 +539,50 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:So17SDCIdDocumentTypeV16ScanditIdCaptureE11descriptionSSvg",
-                "mangledName": "$sSo17SDCIdDocumentTypeV16ScanditIdCaptureE11descriptionSSvg",
+                "usr": "s:So24SDCRegionSpecificSubtypeV16ScanditIdCaptureE11descriptionSSvg",
+                "mangledName": "$sSo24SDCRegionSpecificSubtypeV16ScanditIdCaptureE11descriptionSSvg",
+                "moduleName": "ScanditIdCapture",
+                "isFromExtension": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "shortDescription",
+            "printedName": "shortDescription",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:So24SDCRegionSpecificSubtypeV16ScanditIdCaptureE16shortDescriptionSSvp",
+            "mangledName": "$sSo24SDCRegionSpecificSubtypeV16ScanditIdCaptureE16shortDescriptionSSvp",
+            "moduleName": "ScanditIdCapture",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:So24SDCRegionSpecificSubtypeV16ScanditIdCaptureE16shortDescriptionSSvg",
+                "mangledName": "$sSo24SDCRegionSpecificSubtypeV16ScanditIdCaptureE16shortDescriptionSSvg",
                 "moduleName": "ScanditIdCapture",
                 "isFromExtension": true,
                 "accessorKind": "get"
@@ -548,45 +590,20 @@
             ]
           }
         ],
-        "declKind": "Struct",
-        "usr": "c:@E@SDCIdDocumentType",
+        "declKind": "Enum",
+        "usr": "c:@E@SDCRegionSpecificSubtype",
         "moduleName": "ScanditIdCapture",
+        "objc_name": "SDCRegionSpecificSubtype",
         "declAttributes": [
           "SynthesizedProtocol",
+          "ObjC",
           "SynthesizedProtocol",
-          "Sendable"
+          "Sendable",
+          "Dynamic"
         ],
+        "enumRawTypeName": "UInt",
         "isExternal": true,
         "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "OptionSet",
-            "printedName": "OptionSet",
-            "children": [
-              {
-                "kind": "TypeWitness",
-                "name": "Element",
-                "printedName": "Element",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "IdDocumentType",
-                    "printedName": "ScanditIdCapture.IdDocumentType",
-                    "usr": "c:@E@SDCIdDocumentType"
-                  }
-                ]
-              }
-            ],
-            "usr": "s:s9OptionSetP",
-            "mangledName": "$ss9OptionSetP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Sendable",
-            "printedName": "Sendable",
-            "usr": "s:s8SendableP",
-            "mangledName": "$ss8SendableP"
-          },
           {
             "kind": "Conformance",
             "name": "RawRepresentable",
@@ -611,25 +628,10 @@
           },
           {
             "kind": "Conformance",
-            "name": "SetAlgebra",
-            "printedName": "SetAlgebra",
-            "children": [
-              {
-                "kind": "TypeWitness",
-                "name": "Element",
-                "printedName": "Element",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "IdDocumentType",
-                    "printedName": "ScanditIdCapture.IdDocumentType",
-                    "usr": "c:@E@SDCIdDocumentType"
-                  }
-                ]
-              }
-            ],
-            "usr": "s:s10SetAlgebraP",
-            "mangledName": "$ss10SetAlgebraP"
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
           },
           {
             "kind": "Conformance",
@@ -640,25 +642,10 @@
           },
           {
             "kind": "Conformance",
-            "name": "ExpressibleByArrayLiteral",
-            "printedName": "ExpressibleByArrayLiteral",
-            "children": [
-              {
-                "kind": "TypeWitness",
-                "name": "ArrayLiteralElement",
-                "printedName": "ArrayLiteralElement",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "IdDocumentType",
-                    "printedName": "ScanditIdCapture.IdDocumentType",
-                    "usr": "c:@E@SDCIdDocumentType"
-                  }
-                ]
-              }
-            ],
-            "usr": "s:s25ExpressibleByArrayLiteralP",
-            "mangledName": "$ss25ExpressibleByArrayLiteralP"
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
           },
           {
             "kind": "Conformance",
@@ -673,13 +660,13 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Array",
-                    "printedName": "[ScanditIdCapture.IdDocumentType]",
+                    "printedName": "[ScanditIdCapture.RegionSpecificSubtype]",
                     "children": [
                       {
                         "kind": "TypeNominal",
-                        "name": "IdDocumentType",
-                        "printedName": "ScanditIdCapture.IdDocumentType",
-                        "usr": "c:@E@SDCIdDocumentType"
+                        "name": "RegionSpecificSubtype",
+                        "printedName": "ScanditIdCapture.RegionSpecificSubtype",
+                        "usr": "c:@E@SDCRegionSpecificSubtype"
                       }
                     ],
                     "usr": "s:Sa"

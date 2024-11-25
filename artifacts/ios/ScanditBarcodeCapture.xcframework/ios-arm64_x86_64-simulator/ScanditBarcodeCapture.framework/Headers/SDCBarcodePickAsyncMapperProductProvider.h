@@ -73,6 +73,13 @@ NS_SWIFT_NAME(BarcodePickAsyncMapperProductProvider)
                 providerDelegate:
                     (id<SDCBarcodePickAsyncMapperProductProviderDelegate>)providerDelegate;
 
+/**
+ * Added in version 6.25.6
+ *
+ * Replaces the products database to the newly provided list. This will reset scanning and all the previous picking progress will be lost.
+ */
+- (void)updateProductList:(NSSet<SDCBarcodePickProduct *> *)products;
+
 @end
 
 NS_ASSUME_NONNULL_END

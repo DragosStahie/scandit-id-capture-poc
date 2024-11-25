@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		w4PzWzKJZDM4Rh7k2g9mNu1jTrU=
+		lq8KWu36nfJhqEn3C4l42CWyHtI=
 		</data>
 		<key>Headers/SDCArucoDictionary.h</key>
 		<data>
@@ -212,10 +212,6 @@
 		<data>
 		FRAHd5vC5BESst3cONfIvtZQKI8=
 		</data>
-		<key>Headers/SDCBarcodeFindSession.h</key>
-		<data>
-		z7+AJp1GK9O1oKnoYFn94DQCofo=
-		</data>
 		<key>Headers/SDCBarcodeFindSettings.h</key>
 		<data>
 		dQf5b/1+KijsKLjuXuJ2u62d2PE=
@@ -262,7 +258,7 @@
 		</data>
 		<key>Headers/SDCBarcodePickAsyncMapperProductProvider.h</key>
 		<data>
-		o2hJFR75yuuKmORW6/Z0GbZeiL8=
+		L+/cGFLOcAXtNp1oZdswZMnc2Gw=
 		</data>
 		<key>Headers/SDCBarcodePickDeserializer.h</key>
 		<data>
@@ -550,7 +546,7 @@
 		</data>
 		<key>Headers/ScanditBarcodeCapture.h</key>
 		<data>
-		KAaQ5wDlSikXBl07Hy7GE2IBrH0=
+		j3WzP4WhSUlnDujIjQTCx518tJY=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -611,7 +607,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			n+cyZ4BKwRF/AjBWBupKz8/9+xnf2LfVaEHYIWtlqHE=
+			WfN1/aYFEYbAD8XOq3qBDegKHZUoG2BfmtOZSNxZcxw=
 			</data>
 		</dict>
 		<key>Headers/SDCArucoDictionary.h</key>
@@ -971,13 +967,6 @@
 			HbwpdIQ031+dgqmoAlL21R4pk6LDp8cjjAOuLjn5frk=
 			</data>
 		</dict>
-		<key>Headers/SDCBarcodeFindSession.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Xz5gKp+dn/uvc1/uaX+3f4USCsvDgMVGwvNKe9djSs8=
-			</data>
-		</dict>
 		<key>Headers/SDCBarcodeFindSettings.h</key>
 		<dict>
 			<key>hash2</key>
@@ -1059,7 +1048,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mM2oewabq+Ue1k+8UChiU4aQde7A2hfqv9XahKdGnfI=
+			uR60PNsLKR5e/iWIJ6oFe7drThU7SorunlenRlnICmE=
 			</data>
 		</dict>
 		<key>Headers/SDCBarcodePickDeserializer.h</key>
@@ -1563,7 +1552,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			801p92zNHCA9ExLYHzScexPpE8i/c0RIuy+7eDwPrD0=
+			bNKQ3Hq35iEvYYoI6OV1Sfh4wzhb2uOpvvtrUioMd5s=
 			</data>
 		</dict>
 		<key>Modules/ScanditBarcodeCapture.swiftmodule/arm64-apple-ios.abi.json</key>

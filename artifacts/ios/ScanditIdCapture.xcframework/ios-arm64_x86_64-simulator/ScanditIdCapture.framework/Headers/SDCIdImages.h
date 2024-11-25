@@ -6,7 +6,6 @@
 
 #import <Foundation/Foundation.h>
 #import <ScanditCaptureCore/ScanditCaptureCore.h>
-#import <ScanditIdCapture/SDCIdDocumentType.h>
 #import <ScanditIdCapture/SDCIdCaptureRegion.h>
 #import <ScanditIdCapture/SDCIdCaptureDocument.h>
 

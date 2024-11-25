@@ -6,7 +6,7 @@
 	<dict>
 		<key>THIRD_PARTY.txt</key>
 		<data>
-		nV2AIzenbyCdQ1mUkMyWe+Q5/EY=
+		SYYQFOL9VpHCM7x/t+X1/CZrxF4=
 		</data>
 		<key>ios-arm64/ScanditIdVoidedDetection.framework/Headers/ScanditIdVoidedDetection.h</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>ios-arm64/ScanditIdVoidedDetection.framework/ScanditIdVoidedDetection</key>
 		<data>
-		i3307Vhv99kvQIhXDgS7EtrpRYs=
+		X1pS253XxFBp6fkJAVHVqUhNi8o=
 		</data>
 		<key>ios-arm64/ScanditIdVoidedDetection.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/ScanditIdVoidedDetection.framework/ScanditIdVoidedDetection</key>
 		<data>
-		fbz4LqyDCCoiTZ3cLhUnojKG5X8=
+		g0KE7nlbN8Tir1ldyr2Tx8knbiw=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ScanditIdVoidedDetection.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -83,11 +83,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nV2AIzenbyCdQ1mUkMyWe+Q5/EY=
+			SYYQFOL9VpHCM7x/t+X1/CZrxF4=
 			</data>
 			<key>hash2</key>
 			<data>
-			rlrgLIq/jZNwK9kdrT1RmQOfAzctMgSc7SzotIm/rBQ=
+			OwVGd6R6hQxsPZOQ8e9y2IXyS48bawIKZBIislapHd8=
 			</data>
 		</dict>
 		<key>ios-arm64/ScanditIdVoidedDetection.framework/Headers/ScanditIdVoidedDetection.h</key>
@@ -138,11 +138,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			i3307Vhv99kvQIhXDgS7EtrpRYs=
+			X1pS253XxFBp6fkJAVHVqUhNi8o=
 			</data>
 			<key>hash2</key>
 			<data>
-			Wkt5zvJ1eAAuCzR7W+VnS9daNdlkK9L4mu7xgEy4Xhg=
+			XUVoX/hiT+ery6+g4Yp+SZJ7ZClwNSUKTA/05hGG2Z0=
 			</data>
 		</dict>
 		<key>ios-arm64/ScanditIdVoidedDetection.framework/_CodeSignature/CodeResources</key>
@@ -248,11 +248,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fbz4LqyDCCoiTZ3cLhUnojKG5X8=
+			g0KE7nlbN8Tir1ldyr2Tx8knbiw=
 			</data>
 			<key>hash2</key>
 			<data>
-			UMXro8x3e7TgL+PE9p5H5ZgcW3tO0dH4GCOi/GATzus=
+			aQWnrHTOoUuDuz53BnJtLtPl34WRyHS0i9NPnPrs8vQ=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ScanditIdVoidedDetection.framework/_CodeSignature/CodeResources</key>

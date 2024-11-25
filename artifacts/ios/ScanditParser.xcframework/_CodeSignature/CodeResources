@@ -6,7 +6,7 @@
 	<dict>
 		<key>THIRD_PARTY.txt</key>
 		<data>
-		nV2AIzenbyCdQ1mUkMyWe+Q5/EY=
+		SYYQFOL9VpHCM7x/t+X1/CZrxF4=
 		</data>
 		<key>ios-arm64/ScanditParser.framework/Headers/SDCParsedData.h</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>ios-arm64/ScanditParser.framework/ScanditParser</key>
 		<data>
-		XrYtvp+Nj4UOw/38q7/uXGs3oso=
+		4rI8q6daH8DskEK1nxOryY80AVQ=
 		</data>
 		<key>ios-arm64/ScanditParser.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -102,7 +102,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/ScanditParser.framework/ScanditParser</key>
 		<data>
-		3OpwfIMTpZ7BEjtS4K15iZ8c240=
+		GE0C8qVyFAoUTn+z8HSvWisc+YU=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ScanditParser.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -115,11 +115,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nV2AIzenbyCdQ1mUkMyWe+Q5/EY=
+			SYYQFOL9VpHCM7x/t+X1/CZrxF4=
 			</data>
 			<key>hash2</key>
 			<data>
-			rlrgLIq/jZNwK9kdrT1RmQOfAzctMgSc7SzotIm/rBQ=
+			OwVGd6R6hQxsPZOQ8e9y2IXyS48bawIKZBIislapHd8=
 			</data>
 		</dict>
 		<key>ios-arm64/ScanditParser.framework/Headers/SDCParsedData.h</key>
@@ -225,11 +225,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			XrYtvp+Nj4UOw/38q7/uXGs3oso=
+			4rI8q6daH8DskEK1nxOryY80AVQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			GcYcFMrxV2VMalrW3vRtZD4qVsjRDEoaDX7Z2cq2/dk=
+			F3flFJuLg7vQz+xtxXXSc79lXwcAEkVt+hy46tbJLjk=
 			</data>
 		</dict>
 		<key>ios-arm64/ScanditParser.framework/_CodeSignature/CodeResources</key>
@@ -379,11 +379,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3OpwfIMTpZ7BEjtS4K15iZ8c240=
+			GE0C8qVyFAoUTn+z8HSvWisc+YU=
 			</data>
 			<key>hash2</key>
 			<data>
-			XboEgNysFf/A3HZ2S0BS1n7XfNUU1LCJ38L0BsZNtSs=
+			DKelzjQcGENSeo5e5I9LWD1MWckwFUN6KSqW9p42Rr0=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ScanditParser.framework/_CodeSignature/CodeResources</key>

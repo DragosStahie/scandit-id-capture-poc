@@ -6,7 +6,7 @@
 
 #import <Foundation/Foundation.h>
 #import <ScanditCaptureCore/ScanditCaptureCore.h>
-#import <ScanditIdCapture/SDCSupportedSides.h>
+#import <ScanditIdCapture/SDCCapturedSides.h>
 
 NS_ASSUME_NONNULL_BEGIN
 
@@ -175,7 +175,7 @@ SDC_EXPORTED_SYMBOL
  *
  * The sides of the document that were scanned to extract this VizResult.
  */
-@property (nonatomic, readonly) SDCSupportedSides capturedSides;
+@property (nonatomic, readonly) SDCCapturedSides capturedSides;
 /**
  * Added in version 6.6.0
  *

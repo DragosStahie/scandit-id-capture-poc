@@ -6,11 +6,11 @@
 	<dict>
 		<key>THIRD_PARTY.txt</key>
 		<data>
-		nV2AIzenbyCdQ1mUkMyWe+Q5/EY=
+		SYYQFOL9VpHCM7x/t+X1/CZrxF4=
 		</data>
 		<key>ios-arm64/ScanditCaptureCore.framework/Assets.car</key>
 		<data>
-		KW4KGLnrkKyz7BA2GI1p/fInG3k=
+		UIS+e4NTD/6PUJtPH67+jpeP11w=
 		</data>
 		<key>ios-arm64/ScanditCaptureCore.framework/Headers/SDCAimerViewfinder.h</key>
 		<data>
@@ -202,7 +202,7 @@
 		</data>
 		<key>ios-arm64/ScanditCaptureCore.framework/Headers/SDCScanIntention.h</key>
 		<data>
-		xtAiVpt0Wno6LqqY+QaezQbHd6U=
+		CorvyUpK5ZWJXEQf3erHOzYibtE=
 		</data>
 		<key>ios-arm64/ScanditCaptureCore.framework/Headers/SDCSequenceFrameSource.h</key>
 		<data>
@@ -282,11 +282,11 @@
 		</data>
 		<key>ios-arm64/ScanditCaptureCore.framework/ScanditCaptureCore</key>
 		<data>
-		xC5UTppO3UDRIJm+Si1fEuy/5X4=
+		fvBX68K2TluotG6zzfAiDfR98CM=
 		</data>
 		<key>ios-arm64/ScanditCaptureCore.framework/_CodeSignature/CodeResources</key>
 		<data>
-		ZDKQKBEd+UKPfaX88a1hem2PBI4=
+		HYLSgMoaXHx0YbWluOt4mpkw/W4=
 		</data>
 		<key>ios-arm64/ScanditCaptureCore.framework/barcode_classification_default_model</key>
 		<data>
@@ -346,15 +346,15 @@
 		</data>
 		<key>ios-arm64/dSYMs/ScanditCaptureCore.framework.dSYM/Contents/Resources/DWARF/ScanditCaptureCore</key>
 		<data>
-		pg7SZiRqA0L9lCfg6HVfxCA4ZtI=
+		39ABc+N/WCNSGu3pMfK0GxLajVs=
 		</data>
 		<key>ios-arm64/dSYMs/ScanditCaptureCore.framework.dSYM/Contents/Resources/Relocations/aarch64/ScanditCaptureCore.yml</key>
 		<data>
-		bht9gXIO2/KDfYTJ2tNt85sSuaA=
+		SHV1Y3mFrtxIXkYnjFrSV09Ul8c=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ScanditCaptureCore.framework/Assets.car</key>
 		<data>
-		KW4KGLnrkKyz7BA2GI1p/fInG3k=
+		UIS+e4NTD/6PUJtPH67+jpeP11w=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ScanditCaptureCore.framework/Headers/SDCAimerViewfinder.h</key>
 		<data>
@@ -546,7 +546,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/ScanditCaptureCore.framework/Headers/SDCScanIntention.h</key>
 		<data>
-		xtAiVpt0Wno6LqqY+QaezQbHd6U=
+		CorvyUpK5ZWJXEQf3erHOzYibtE=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ScanditCaptureCore.framework/Headers/SDCSequenceFrameSource.h</key>
 		<data>
@@ -642,11 +642,11 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/ScanditCaptureCore.framework/ScanditCaptureCore</key>
 		<data>
-		SSB7BDvSLHb+cg4tfWmiNKSpoA0=
+		LhrBHdVEbmgH1Z1pffDlR2RIeqI=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ScanditCaptureCore.framework/_CodeSignature/CodeResources</key>
 		<data>
-		rmwENNiZ+cDLcTUy35tEi5u/fMY=
+		DnhvS/Zj/24yXEU/+MLZCFwErK8=
 		</data>
 		<key>ios-arm64_x86_64-simulator/ScanditCaptureCore.framework/barcode_classification_default_model</key>
 		<data>
@@ -707,22 +707,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nV2AIzenbyCdQ1mUkMyWe+Q5/EY=
+			SYYQFOL9VpHCM7x/t+X1/CZrxF4=
 			</data>
 			<key>hash2</key>
 			<data>
-			rlrgLIq/jZNwK9kdrT1RmQOfAzctMgSc7SzotIm/rBQ=
+			OwVGd6R6hQxsPZOQ8e9y2IXyS48bawIKZBIislapHd8=
 			</data>
 		</dict>
 		<key>ios-arm64/ScanditCaptureCore.framework/Assets.car</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KW4KGLnrkKyz7BA2GI1p/fInG3k=
+			UIS+e4NTD/6PUJtPH67+jpeP11w=
 			</data>
 			<key>hash2</key>
 			<data>
-			FHvjbBWJwAAots+E6zZVOoCX36sJLVFXqXRukex7aSc=
+			vCOylZcLtvo4MpPwRcJQbQYLcPc6wPVV9CN1Qxb95as=
 			</data>
 		</dict>
 		<key>ios-arm64/ScanditCaptureCore.framework/Headers/SDCAimerViewfinder.h</key>
@@ -1246,11 +1246,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xtAiVpt0Wno6LqqY+QaezQbHd6U=
+			CorvyUpK5ZWJXEQf3erHOzYibtE=
 			</data>
 			<key>hash2</key>
 			<data>
-			p+HyvOsZWmAfvxQYSQM/gxoeMs1lsJgPRVon0buSr7Y=
+			nDSFpqBKypxt5HJECcLtfRQ1aaNi0t53cLc261xYQgU=
 			</data>
 		</dict>
 		<key>ios-arm64/ScanditCaptureCore.framework/Headers/SDCSequenceFrameSource.h</key>
@@ -1466,22 +1466,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xC5UTppO3UDRIJm+Si1fEuy/5X4=
+			fvBX68K2TluotG6zzfAiDfR98CM=
 			</data>
 			<key>hash2</key>
 			<data>
-			dQ8IRhdcNvKNf6RNT2MaOUCm5N0iSEO7ji1naghG+sw=
+			aTbkD2cioggZISs80M9cxtsn0qofytdGOxcuV5VukI4=
 			</data>
 		</dict>
 		<key>ios-arm64/ScanditCaptureCore.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZDKQKBEd+UKPfaX88a1hem2PBI4=
+			HYLSgMoaXHx0YbWluOt4mpkw/W4=
 			</data>
 			<key>hash2</key>
 			<data>
-			vcgwsYuhKv3r3G9wNfhbkH47MZVq7XGMFUceFxmUE9A=
+			MmI/B88h1TYS2bV1tMDPWYz4qAvox49VRJyk7RaQge4=
 			</data>
 		</dict>
 		<key>ios-arm64/ScanditCaptureCore.framework/barcode_classification_default_model</key>
@@ -1642,33 +1642,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pg7SZiRqA0L9lCfg6HVfxCA4ZtI=
+			39ABc+N/WCNSGu3pMfK0GxLajVs=
 			</data>
 			<key>hash2</key>
 			<data>
-			KRnUvkqDYfUMGXcw7y7KgBfLk6Y4awwYSe3H3HQc+5I=
+			LLc7WvgtqeEWg72/xHJVJvOZXWoDGSP0zkEEXiz9bYw=
 			</data>
 		</dict>
 		<key>ios-arm64/dSYMs/ScanditCaptureCore.framework.dSYM/Contents/Resources/Relocations/aarch64/ScanditCaptureCore.yml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bht9gXIO2/KDfYTJ2tNt85sSuaA=
+			SHV1Y3mFrtxIXkYnjFrSV09Ul8c=
 			</data>
 			<key>hash2</key>
 			<data>
-			cZI1i3DXLpjXbkrThouiwK3umdA/qY1qm0FzDNdMzF8=
+			vNGtFU3hMLZbhljRFyBuH8GaswvOeYmcQhfNnCUMvDY=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ScanditCaptureCore.framework/Assets.car</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KW4KGLnrkKyz7BA2GI1p/fInG3k=
+			UIS+e4NTD/6PUJtPH67+jpeP11w=
 			</data>
 			<key>hash2</key>
 			<data>
-			FHvjbBWJwAAots+E6zZVOoCX36sJLVFXqXRukex7aSc=
+			vCOylZcLtvo4MpPwRcJQbQYLcPc6wPVV9CN1Qxb95as=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ScanditCaptureCore.framework/Headers/SDCAimerViewfinder.h</key>
@@ -2192,11 +2192,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xtAiVpt0Wno6LqqY+QaezQbHd6U=
+			CorvyUpK5ZWJXEQf3erHOzYibtE=
 			</data>
 			<key>hash2</key>
 			<data>
-			p+HyvOsZWmAfvxQYSQM/gxoeMs1lsJgPRVon0buSr7Y=
+			nDSFpqBKypxt5HJECcLtfRQ1aaNi0t53cLc261xYQgU=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ScanditCaptureCore.framework/Headers/SDCSequenceFrameSource.h</key>
@@ -2456,22 +2456,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SSB7BDvSLHb+cg4tfWmiNKSpoA0=
+			LhrBHdVEbmgH1Z1pffDlR2RIeqI=
 			</data>
 			<key>hash2</key>
 			<data>
-			3aUL8SGAexqNy86WJzSpp2hAw73EN+kO5PNTOnv9wRs=
+			pynQM/TxoAYign914L5uuksF3GM9sdPb+i6PNt4+Zg8=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ScanditCaptureCore.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rmwENNiZ+cDLcTUy35tEi5u/fMY=
+			DnhvS/Zj/24yXEU/+MLZCFwErK8=
 			</data>
 			<key>hash2</key>
 			<data>
-			hYSYAOJFfyuNsYXgp2dhcfCN+65ktzf2QjDhKGFmw64=
+			R0jgml3G5sDqLDqx3dHeWIttfg01lrreaneVX2Mt2Zk=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/ScanditCaptureCore.framework/barcode_classification_default_model</key>

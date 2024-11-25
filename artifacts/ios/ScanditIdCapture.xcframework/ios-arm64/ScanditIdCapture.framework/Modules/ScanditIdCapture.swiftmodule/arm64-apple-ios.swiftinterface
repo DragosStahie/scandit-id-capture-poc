@@ -25,16 +25,19 @@ extension ScanditIdCapture.IdCaptureRegion : Swift.CustomStringConvertible {
     get
   }
 }
-extension ScanditIdCapture.IdDocumentType : Swift.CaseIterable {
-  public static var allCases: [ScanditIdCapture.IdDocumentType] {
+extension ScanditIdCapture.RegionSpecificSubtype : Swift.CaseIterable, Swift.Codable {
+  public static var allCases: [ScanditIdCapture.RegionSpecificSubtype] {
     get
   }
-  public typealias AllCases = [ScanditIdCapture.IdDocumentType]
+  public typealias AllCases = [ScanditIdCapture.RegionSpecificSubtype]
 }
-extension ScanditIdCapture.IdDocumentType : Swift.Codable {
-}
-extension ScanditIdCapture.IdDocumentType : Swift.CustomStringConvertible {
+extension ScanditIdCapture.RegionSpecificSubtype : Swift.CustomStringConvertible {
   public var description: Swift.String {
+    get
+  }
+}
+extension ScanditIdCapture.RegionSpecificSubtype {
+  public var shortDescription: Swift.String {
     get
   }
 }

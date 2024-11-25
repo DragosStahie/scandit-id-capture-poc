@@ -62,7 +62,6 @@ FOUNDATION_EXPORT const unsigned char ScanditBarcodeCaptureVersionString[];
 #import <ScanditBarcodeCapture/SDCBarcodeFindItem.h>
 #import <ScanditBarcodeCapture/SDCBarcodeFindItemContent.h>
 #import <ScanditBarcodeCapture/SDCBarcodeFindItemSearchOptions.h>
-#import <ScanditBarcodeCapture/SDCBarcodeFindSession.h>
 #import <ScanditBarcodeCapture/SDCBarcodeFindSettings.h>
 #import <ScanditBarcodeCapture/SDCBarcodeFindTransformer.h>
 #import <ScanditBarcodeCapture/SDCBarcodeFindView.h>
