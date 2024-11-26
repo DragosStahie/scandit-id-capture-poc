@@ -47,4 +47,18 @@ dependencies {
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
+
+    //scandit local libraries
+
+    implementation(files("../../artifacts/android/ScanditBarcodeCapture.aar"))
+    implementation(files("../../artifacts/android/ScanditCaptureCore.aar"))
+    implementation(files("../../artifacts/android/ScanditIdAamvaBarcodeVerification.aar"))
+    implementation(files("../../artifacts/android/ScanditIdCapture.aar"))
+    implementation(files("../../artifacts/android/ScanditIdCaptureBackend.aar"))
+    implementation(files("../../artifacts/android/ScanditIdEuropeDrivingLicense.aar"))
+    implementation(files("../../artifacts/android/ScanditIdVoidedDetection.aar"))
+    implementation(files("../../artifacts/android/ScanditLabelCapture.aar"))
+    implementation(files("../../artifacts/android/ScanditLabelCaptureText.aar"))
+    implementation(files("../../artifacts/android/ScanditParser.aar"))
+    implementation(files("../../artifacts/android/ScanditPriceLabel.aar"))
 }
