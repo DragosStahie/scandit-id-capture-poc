@@ -11,6 +11,7 @@ import android.view.ViewGroup
 import android.widget.Toast
 import androidx.activity.result.ActivityResultLauncher
 import androidx.activity.result.contract.ActivityResultContracts
+import androidx.appcompat.app.AlertDialog
 import androidx.core.content.ContextCompat
 import androidx.fragment.app.Fragment
 import com.scandit.datacapture.core.capture.DataCaptureContext
@@ -68,7 +69,13 @@ class ScanFragment private constructor() : Fragment() {
         override fun onIdRejected(mode: IdCapture, id: CapturedId?, reason: RejectionReason) {
             val result = getDescriptionForRejectedId(id, reason)
             Log.d("onIdRejected", result)
-            navigateToResult(result = result, isSuccess = false)
+            if (reason == RejectionReason.TIMEOUT) {
+                binding.root.post {
+                    showScanTimeoutAlert()
+                }
+            } else {
+                navigateToResult(result = result, isSuccess = false)
+            }
         }
     }
 
@@ -182,6 +189,22 @@ class ScanFragment private constructor() : Fragment() {
             builder.append(dateFormat.format(value.localDate))
             builder.append("\n")
         }
+    }
+
+    private fun showScanTimeoutAlert() {
+        AlertDialog.Builder(requireContext()).apply {
+            setMessage(getString(R.string.scanning_failed_message))
+            setCancelable(false)
+
+            setPositiveButton(getString(R.string.try_again)) { dialog, _ ->
+                dialog.dismiss()
+            }
+
+            setNegativeButton(getString(R.string.cancel)) { dialog, _ ->
+                dialog.cancel()
+                requireActivity().supportFragmentManager.popBackStack()
+            }
+        }.create().show()
     }
 
     companion object {

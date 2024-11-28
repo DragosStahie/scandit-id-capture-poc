@@ -5,10 +5,8 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
-import androidx.fragment.app.FragmentManager
 import com.scandit.datacapture.idcapturesurvey.R
 import com.scandit.datacapture.idcapturesurvey.databinding.FragmentResultBinding
-import com.scandit.datacapture.idcapturesurvey.scan.ScanFragment
 
 class ResultFragment : Fragment() {
 
@@ -43,9 +41,7 @@ class ResultFragment : Fragment() {
     }
 
     private fun restartFlow() {
-        requireActivity().supportFragmentManager.popBackStack(
-            ScanFragment.TAG, FragmentManager.POP_BACK_STACK_INCLUSIVE
-        )
+        requireActivity().supportFragmentManager.popBackStack()
     }
 
     companion object {
