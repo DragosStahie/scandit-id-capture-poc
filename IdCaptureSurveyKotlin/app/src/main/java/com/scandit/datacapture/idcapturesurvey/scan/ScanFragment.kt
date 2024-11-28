@@ -1,11 +1,17 @@
 package com.scandit.datacapture.idcapturesurvey.scan
 
+import android.Manifest
+import android.content.pm.PackageManager
 import android.os.Bundle
 import android.text.TextUtils
 import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.widget.Toast
+import androidx.activity.result.ActivityResultLauncher
+import androidx.activity.result.contract.ActivityResultContracts
+import androidx.core.content.ContextCompat
 import androidx.fragment.app.Fragment
 import com.scandit.datacapture.core.capture.DataCaptureContext
 import com.scandit.datacapture.core.source.Camera
@@ -37,6 +43,17 @@ class ScanFragment private constructor() : Fragment() {
     private lateinit var captureView: DataCaptureView
     private lateinit var overlay: IdCaptureOverlay
 
+    private val cameraPermissionRequestLauncher: ActivityResultLauncher<String> =
+        registerForActivityResult(ActivityResultContracts.RequestPermission()) { isGranted: Boolean ->
+            if (!isGranted) {
+                Toast.makeText(
+                    requireContext(),
+                    "Go to settings and enable camera permission to use this feature",
+                    Toast.LENGTH_SHORT
+                ).show()
+            }
+        }
+
     private val dateFormat = SimpleDateFormat.getInstance()
     private val idCaptureListener = object : IdCaptureListener {
         override fun onIdCaptured(mode: IdCapture, id: CapturedId) {
@@ -62,6 +79,13 @@ class ScanFragment private constructor() : Fragment() {
 
     override fun onResume() {
         super.onResume()
+        if (ContextCompat.checkSelfPermission(
+                requireContext(),
+                Manifest.permission.CAMERA
+            ) != PackageManager.PERMISSION_GRANTED
+        ) {
+            cameraPermissionRequestLauncher.launch(Manifest.permission.CAMERA)
+        }
 
         camera.switchToDesiredState(FrameSourceState.ON)
         captureView.addOverlay(overlay)
@@ -107,7 +131,7 @@ class ScanFragment private constructor() : Fragment() {
         settings.acceptedDocuments = acceptedDocuments
         settings.rejectedDocuments = rejectedDocuments
 
-        settings.scannerType = SingleSideScanner( machineReadableZone = true)
+        settings.scannerType = SingleSideScanner(machineReadableZone = true)
 
         idCapture = IdCapture.forDataCaptureContext(captureContext, settings)
         captureView = DataCaptureView.newInstance(requireContext(), captureContext)
