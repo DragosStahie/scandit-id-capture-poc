@@ -33,6 +33,8 @@ import com.scandit.datacapture.idcapturesurvey.R
 import com.scandit.datacapture.idcapturesurvey.databinding.FragmentScanBinding
 import com.scandit.datacapture.idcapturesurvey.navigation.navigateToFragment
 import com.scandit.datacapture.idcapturesurvey.result.ResultFragment
+import com.scandit.datacapture.idcapturesurvey.result.ResultFragment.Companion.IS_SUCCESS_BUNDLE_KEY
+import com.scandit.datacapture.idcapturesurvey.result.ResultFragment.Companion.RESULT_BUNDLE_KEY
 import java.text.SimpleDateFormat
 
 
@@ -58,11 +60,15 @@ class ScanFragment private constructor() : Fragment() {
     private val dateFormat = SimpleDateFormat.getInstance()
     private val idCaptureListener = object : IdCaptureListener {
         override fun onIdCaptured(mode: IdCapture, id: CapturedId) {
-            Log.d("onIdCaptured", getDescriptionForCapturedId(id))
+            val result = getDescriptionForCapturedId(id)
+            Log.d("onIdCaptured", result)
+            navigateToResult(result = result, isSuccess = true)
         }
 
         override fun onIdRejected(mode: IdCapture, id: CapturedId?, reason: RejectionReason) {
-            Log.d("onIdRejected", getDescriptionForRejectedId(id, reason))
+            val result = getDescriptionForRejectedId(id, reason)
+            Log.d("onIdRejected", result)
+            navigateToResult(result = result, isSuccess = false)
         }
     }
 
@@ -132,8 +138,17 @@ class ScanFragment private constructor() : Fragment() {
         binding.root.addView(captureView)
     }
 
-    private fun navigateToResult() {
-        requireActivity().navigateToFragment(ResultFragment.create(), ResultFragment.TAG)
+    private fun navigateToResult(result: String, isSuccess: Boolean) {
+        val bundle = Bundle()
+        bundle.putString(RESULT_BUNDLE_KEY, result)
+        bundle.putBoolean(IS_SUCCESS_BUNDLE_KEY, isSuccess)
+
+        requireActivity().navigateToFragment(
+            ResultFragment.create().apply {
+                arguments = bundle
+            },
+            ResultFragment.TAG
+        )
     }
 
     private fun getDescriptionForRejectedId(result: CapturedId?, reason: RejectionReason): String {
@@ -147,8 +162,8 @@ class ScanFragment private constructor() : Fragment() {
         val builder = StringBuilder()
         appendField(builder, "Full Name: ", result.fullName)
         appendField(builder, "Date of Birth: ", result.dateOfBirth)
-        appendField(builder, "Date of Expiry: ", result.dateOfExpiry)
         appendField(builder, "Document Number: ", result.documentNumber.toString())
+        appendField(builder, "Date of Expiry: ", result.dateOfExpiry)
         appendField(builder, "Nationality: ", result.nationality.toString())
         return builder.toString()
     }
